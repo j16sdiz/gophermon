@@ -7,9 +7,9 @@ import (
 
 	"github.com/pogodevorg/POGOProtos-go"
 
+	"github.com/femot/gophermon/mapsql"
 	"github.com/femot/pgoapi-go/api"
 	"github.com/femot/pgoapi-go/auth"
-	"github.com/femot/spawnfinder/mapsql"
 )
 
 // ScanDelay
